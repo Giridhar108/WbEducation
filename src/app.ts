@@ -1,5 +1,6 @@
 interface ICar {
     name: string;
+    price: number;
     maximumTorque: number;
     maxSpeed: number;
     accelerationTime100: number;
